@@ -14,6 +14,8 @@
 
 <b>Project 4 - Price comparison:</b> In this project we scrape data from different websites and save in a database. In order compare the prices of the product we get the data from the database and analyse it. For this project python and Sqlite3 is used. 
 
+<b>Project 5 - Random beer app:</b> Within this project a random beer generator app is build. In order to built it data has been scraped from a website. In this project we used python and HTML. 
+
 ### Programming and Data analysis:
 
 <b>Project 1 - NYC Borouhgs And Neighborhoods:</b> Within this project, we have analyzed data in order to find the safest borough in New York City. Venue data was also analyzed to find out which neighbordhood is best to move to. (This project contain 2 extra files; a report and a presentation)
