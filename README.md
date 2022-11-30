@@ -1,6 +1,6 @@
 # Portfolio
 
-#### This is the portfolio of Osman Muglu. It contains programming and data analysis projects. For full functionality using jupyter notebook is recommended.
+#### This is the portfolio of Osman Muglu. It contains several projects related to data engineering, programming and data analysis. For full functionality using jupyter notebook is recommended.
 
 #### All projects within this portfolio are done using Python. The most commonly used tools are Pandas, Folium, Seaborn, and Matplotlib. 
 
