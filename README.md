@@ -6,7 +6,11 @@
 
 #### Programming and data engineering:
 
-<b>Flask App - Task Master:</b> In this project we built Task master applicaton using Flask for your daily to-do list. . Witin this project we used Python, SQLalchemy (database), HTML and CSS.  In this application you can add, update and delete items within your to-do list. The data that is used on the website goes through the database. 
+<b>Project 1 - Flask App - Task Master:</b> In this project we built Task master applicaton using Flask for your daily to-do list. . Witin this project we used Python, SQLalchemy (database), HTML and CSS.  In this application you can add, update and delete items within your to-do list. The data that is used on the website goes through the database. 
+
+<b>Project 2 - Wheather data:</b> Within this project we mine the wheather data of Google. For this a python code is wirtten in order to get elements from the wheather data on Google. 
+
+<b>Project 3 - Lunch database and table:</b> Here we create a database and table. Also we fill this table with data. In this project we used python and Sqlite 3. 
 
 ### Programming and Data analysis:
 
