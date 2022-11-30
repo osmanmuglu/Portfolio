@@ -4,6 +4,10 @@
 
 #### All projects within this portfolio are done using Python. The most commonly used tools are Pandas, Folium, Seaborn, and Matplotlib. 
 
+#### Programming and data engineering:
+
+<b>Flask App - Task Master:</b> In this project we built Task master applicaton using Flask for your daily to-do list. . Witin this project we used Python, SQLalchemy (database), HTML and CSS.  In this application you can add, update and delete items within your to-do list. The data that is used on the website goes through the database. 
+
 ### Programming and Data analysis:
 
 <b>Project 1 - NYC Borouhgs And Neighborhoods:</b> Within this project, we have analyzed data in order to find the safest borough in New York City. Venue data was also analyzed to find out which neighbordhood is best to move to. (This project contain 2 extra files; a report and a presentation)
