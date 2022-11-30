@@ -4,6 +4,8 @@
 
 #### All projects within this portfolio are done using Python. The most commonly used tools are Pandas, Folium, Seaborn, and Matplotlib. 
 
+### Programming and Data analysis:
+
 <b>Project 1 - NYC Borouhgs And Neighborhoods:</b> Within this project, we have analyzed data in order to find the safest borough in New York City. Venue data was also analyzed to find out which neighbordhood is best to move to. (This project contain 2 extra files; a report and a presentation)
 
 <b>Project 2 - Scaling Up Healthcare Capacity Netherlands:</b> The Netherland has one of the lowest hospital capacities in the world. To deal with the next virus outbreak the Dutch government definitely needs to scale up its capacity. We have analyzed hospital and pharmacy data from all Dutch provinces. In this project, data is analyzed from each Dutch province. The knowledge gained from this is used to determine where additional hospitals and pharmacies should be opened. (This project contains one extra file; a report)
