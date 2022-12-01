@@ -6,6 +6,8 @@
 
 #### Programming and data engineering:
 
+<b>Project 1 - Data scraping, databases and Flask applications:</b>
+
 <b>Project 1 - Flask App - Task Master:</b> In this project we built Task master applicaton using Flask for your daily to-do list. . Witin this project we used Python, SQLalchemy (database), HTML and CSS.  In this application you can add, update and delete items within your to-do list. The data that is used on the website goes through the database. 
 
 <b>Project 2 - Wheather data:</b> Within this project we mine the wheather data of Google. For this a python code is wirtten in order to get elements from the wheather data on Google. 
@@ -15,6 +17,10 @@
 <b>Project 4 - Price comparison:</b> In this project we scrape data from different websites and save in a database. In order compare the prices of the product we get the data from the database and analyse it. For this project python and Sqlite3 is used. 
 
 <b>Project 5 - Random beer app:</b> Within this project a random beer generator app is build. In order to built it data has been scraped from a website. In this project we used python and HTML. 
+
+<b>Project 2 - PySpark and SparkSQL:</b>
+
+<b>Project 2.1 - Friends Data:</b> In this project a CSV data file is loaded and read using spark. The data is put into a dataframe in order to run an SQL query over it. 
 
 ### Programming and Data analysis:
 
