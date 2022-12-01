@@ -22,7 +22,11 @@
 
 <b>Project 2.1 - Friends Data:</b> In this project a CSV data file is loaded and read using spark. The data is put into a dataframe in order to run an SQL query over it. 
 
-<b>Project 2.2 - Data by age:</b> In this project a CSV data file is loaded and read using spark. here only spark functions are using in order to group, aggregate and sort the data. 
+<b>Project 2.2 - Data by age:</b>A CSV data file is loaded and read using spark in this project. In order to get the results we used spark(sqL) functions in order to group, aggregate and sort the data.
+
+<b>Project 2.3 - Total amount:</b> for this project we used spark to read and load data into a spark dataset. In order to get the results we used spark(sqL) functions in order to round, sum and sort the data.
+
+<b>Project 2.4 - Movies!:</b> Within in this project we use two different data files. To do this we use broadcast variable and user defined function. 
 
 ### Programming and Data analysis:
 
