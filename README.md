@@ -22,6 +22,8 @@
 
 <b>Project 2.1 - Friends Data:</b> In this project a CSV data file is loaded and read using spark. The data is put into a dataframe in order to run an SQL query over it. 
 
+<b>Project 2.2 - Data by age:</b> In this project a CSV data file is loaded and read using spark. here only spark functions are using in order to group, aggregate and sort the data. 
+
 ### Programming and Data analysis:
 
 <b>Project 1 - NYC Borouhgs And Neighborhoods:</b> Within this project, we have analyzed data in order to find the safest borough in New York City. Venue data was also analyzed to find out which neighbordhood is best to move to. (This project contain 2 extra files; a report and a presentation)
