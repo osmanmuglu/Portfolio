@@ -28,6 +28,8 @@
 
 <b>Project 2.4 - Movies!:</b> Within in this project we use two different data files. To do this we use broadcast variable and user defined function. 
 
+<b>Project 2.5 - Most popular super hero:</b>In this project we use two different data files. For one file we create a schema and for the other a dataframe. With the use of these files we extract the data we need through ID's. 
+
 ### Programming and Data analysis:
 
 <b>Project 1 - NYC Borouhgs And Neighborhoods:</b> Within this project, we have analyzed data in order to find the safest borough in New York City. Venue data was also analyzed to find out which neighbordhood is best to move to. (This project contain 2 extra files; a report and a presentation)
